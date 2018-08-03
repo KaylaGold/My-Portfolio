@@ -188,6 +188,16 @@ input[type=submit] {
 
 .right { 
 
+    height: 300px;
+    width: 350px;
+    padding: 20px 30px 20px 0px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    float: left;
+
+}
+
+.right-g{
     height: 385px;
     width: 350px;
     padding: 20px 30px 20px 0px;
